@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Rafting Website",
+        "url": "https://micheleargenti.github.io/wdd130/wwr/index.html",
+        "description": "Ho realizzato un sito web dinamico e coinvolgente per un'azienda specializzata in rafting, pensato per trasmettere l'emozione dell'avventura e convertire i visitatori in clienti.",
+        "plus": "Obiettivo raggiunto: +30% di prenotazioni online nei primi 3 mesi.",
+        "logo": "/images/rafting_website.jpg"
+    },
+    {
+        "title": "Reef Paradise",
+        "url": "https://micheleargenti.github.io/wdd131/project/index.html",
+        "description": "Ho sviluppato un e-commerce su misura per un rivenditore specializzato in acquari completi, accessori e servizi di manutenzione.",
+        "plus": "+40% di conversione sui kit completi.",
+        "logo": "/images/reef_paradise.webp"
+    },
+    {
+        "title": "Pokémon World",
+        "url": "https://micheleargenti.github.io/wdd231/project/index.html",
+        "description": "Ho creato un hub dinamico per fan Pokémon, combinando database completo e funzioni social",
+        "plus": "",
+        "logo": "/images/pokemon_world.webp"
+    }
+]
