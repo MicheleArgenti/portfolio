@@ -3,7 +3,6 @@
 async function getProjectData() {
     const response = await fetch('./data/projects.json');
     const data = await response.json();
-    console.log(data);
     displayProjects(data);
 }
 
